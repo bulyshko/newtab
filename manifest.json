@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "New Tab",
-  "description": "Override default New Tab page.",
+  "description": "This Google Chrome extension will override default New Tab with an empty page.",
   "version": "0.0.1",
   "chrome_url_overrides": {
     "newtab": "empty.html"
